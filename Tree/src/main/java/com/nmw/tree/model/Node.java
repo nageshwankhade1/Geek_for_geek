@@ -2,7 +2,7 @@ package com.nmw.tree.model;
 
 public class Node {
 
-    int key;
+    public int key;
     public Node left, right;
 
     public Node(int key){
